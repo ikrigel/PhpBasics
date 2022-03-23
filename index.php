@@ -1,3 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Document</title>
+</head>
+<body>
+<!--     
+    <nav>
+        <a href="index.php">Home</a>
+        <span> | </span>
+        <a href="about.php">About</a>
+        <span> | </span>
+        <a href="programmer.php">Programmer</a>
+    </nav> -->
+
+    <h1>PHP Basics Page</h1>
+
+    <hr>
 <?php
 
 //Output
@@ -120,3 +142,8 @@ echo "Number of elements in the Array: " . count($arr3) . "<br>";
 
 echo "<hr><br>";
 echo "HW 22.3.22 Solution &rarr;🧡🧡🧡🧡&larr;<br>";
+?>
+    <hr>
+
+</body>
+</html>
